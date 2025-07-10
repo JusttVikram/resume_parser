@@ -1,0 +1,71 @@
+{
+  "name": "Alex Rodriguez",
+  "email": "alex.rodriguez@techleader.com",
+  "phone": "+1 (555) 345-6789",
+  "linkedin": "linkedin.com/in/alexrodriguez",
+  "summary": "Experienced engineering manager with 10+ years in software development and team leadership.\nExpertise in scaling engineering teams, architecting distributed systems, and driving technical\ninnovation in fast-paced environments.",
+  "skills": [
+    "Team Leadership",
+    "System Architecture",
+    "Java",
+    "Python",
+    "Kubernetes",
+    "AWS",
+    "Microservices",
+    "DevOps",
+    "Agile",
+    "Methodologies",
+    "Technical Strategy",
+    "Performance Optimization"
+  ],
+  "work_experience": [
+    {
+      "company": "InnovateSoft Solutions",
+      "position": "Senior Software Engineer",
+      "duration": "January 2017 – March 2020",
+      "description": [
+        "Manage engineering team of 25+ developers across 4 product areas",
+        "Architected migration to microservices reducing system latency by 50%",
+        "Established engineering best practices and code review processes",
+        "Collaborated with product and design teams to deliver customer-centric solutions",
+        "Designed and implemented high-availability systems serving 5M+ users",
+        "Led technical interviews and mentored junior developers",
+        "Optimized database performance improving query response time by 70%",
+        "Manage engineering team of 25+ developers across 4 product areas",
+        "Architected migration to microservices reducing system latency by 50%",
+        "Established engineering best practices and code review processes",
+        "Collaborated with product and design teams to deliver customer-centric solutions",
+        "Designed and implemented high-availability systems serving 5M+ users",
+        "Led technical interviews and mentored junior developers",
+        "Optimized database performance improving query response time by 70%"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "university": "Carnegie Mellon University",
+      "years": "2014-2016"
+    },
+    {
+      "degree": "Bachelor of Science in Software Engineering",
+      "university": "University of Texas at Austin",
+      "years": "2010-2014"
+    }
+  ],
+  "certifications": [
+    "- AWS Certified Solutions Architect - Professional",
+    "- Certified Kubernetes Administrator (CKA)",
+    "- PMP - Project Management Professional"
+  ],
+  "languages": [
+    "English (Native)",
+    "Spanish (Native)",
+    "Portuguese (Conversational)"
+  ],
+  "projects": [
+    "- Distributed Cache System: Designed Redis-based caching solution reducing API response time by",
+    "60%",
+    "- DevOps Pipeline: Implemented CI/CD pipeline reducing deployment time from hours to minutes"
+  ]
+}

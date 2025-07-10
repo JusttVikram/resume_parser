@@ -1,0 +1,68 @@
+{
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "phone": "+1 234 567 8900",
+  "linkedin": "linkedin.com/in/johndoe",
+  "summary": "Experienced software engineer with 7+ years in backend systems and distributed applications. Skilled in microservices architecture, cloud platforms, and leading technical teams.",
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "Microservices",
+    "Docker",
+    "Kubernetes",
+    "MongoDB",
+    "AWS",
+    "Python",
+    "REST APIs",
+    "System Design"
+  ],
+  "work_experience": [
+    {
+      "company": "ABC Corp",
+      "position": "Backend Developer",
+      "duration": "Jan 2019 – Present",
+      "description": [
+        "Built REST APIs handling 1M+ users",
+        "Led migration to microservices architecture",
+        "Implemented CI/CD pipelines reducing deployment time by 60%",
+        "Mentored junior developers and conducted code reviews",
+        "Built REST APIs handling 1M+ users",
+        "Led migration to microservices architecture",
+        "Implemented CI/CD pipelines reducing deployment time by 60%",
+        "Mentored junior developers and conducted code reviews"
+      ]
+    },
+    {
+      "company": "XYZ Ltd",
+      "position": "Software Engineer",
+      "duration": "June 2016 – Dec 2018",
+      "description": [
+        "Designed database schema for enterprise applications",
+        "Developed payment processing system handling $10M+ transactions",
+        "Optimized query performance improving response time by 40%",
+        "Designed database schema for enterprise applications",
+        "Developed payment processing system handling $10M+ transactions",
+        "Optimized query performance improving response time by 40%"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "university": "XYZ University",
+      "years": "2012-2016"
+    }
+  ],
+  "certifications": [
+    "- AWS Certified Solutions Architect",
+    "- Oracle Java SE 8 Programmer"
+  ],
+  "languages": [
+    "English (Native)",
+    "Spanish (Conversational)"
+  ],
+  "projects": [
+    "- E-commerce Platform: Built scalable microservices-based platform",
+    "- Real-time Analytics Dashboard: Developed using React and Node.js"
+  ]
+}

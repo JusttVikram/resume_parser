@@ -1,0 +1,70 @@
+{
+  "name": "Emma Wilson",
+  "email": "emma.wilson@marketpro.com",
+  "phone": "555) 234-5678",
+  "linkedin": "linkedin.com/in/emmawilson",
+  "summary": "Creative marketing professional with 8+ years of experience in digital marketing, brand management, and campaign development. Proven ability to drive brand awareness and increase revenue through innovative marketing strategies.",
+  "skills": [
+    "Digital Marketing",
+    "Content Strategy",
+    "SEO/SEM",
+    "Social Media Marketing",
+    "Email Marketing",
+    "Google Analytics",
+    "Adobe Creative Suite",
+    "HubSpot",
+    "Salesforce",
+    "Project Management"
+  ],
+  "work_experience": [
+    {
+      "company": "MarketPro Agency",
+      "position": "Marketing Manager",
+      "duration": "March 2019 – Present",
+      "description": [
+        "Managed marketing campaigns with budgets exceeding $2M annually",
+        "Increased brand awareness by 60% through integrated digital campaigns",
+        "Led team of 8 marketing specialists and coordinators",
+        "Developed content strategy resulting in 300% increase in organic traffic",
+        "Managed marketing campaigns with budgets exceeding $2M annually",
+        "Increased brand awareness by 60% through integrated digital campaigns",
+        "Led team of 8 marketing specialists and coordinators",
+        "Developed content strategy resulting in 300% increase in organic traffic"
+      ]
+    },
+    {
+      "company": "Creative Solutions Inc.",
+      "position": "Digital Marketing Specialist",
+      "duration": "June 2016 – Feb 2019",
+      "description": [
+        "Executed social media campaigns reaching 1M+ impressions monthly",
+        "Optimized PPC campaigns reducing cost-per-acquisition by 45%",
+        "Collaborated with design team to create compelling visual content",
+        "Executed social media campaigns reaching 1M+ impressions monthly",
+        "Optimized PPC campaigns reducing cost-per-acquisition by 45%",
+        "Collaborated with design team to create compelling visual content"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Arts in Marketing",
+      "university": "University of Southern California",
+      "years": "2012-2016"
+    }
+  ],
+  "certifications": [
+    "- Google Ads Certified",
+    "- HubSpot Content Marketing Certification",
+    "- Facebook Blueprint Certification"
+  ],
+  "languages": [
+    "English (Native)",
+    "Italian (Fluent)",
+    "German (Intermediate)"
+  ],
+  "projects": [
+    "- Brand Relaunch Campaign: Led complete rebrand resulting in 80% increase in brand recognition",
+    "- Influencer Marketing Program: Developed partnerships with 50+ influencers"
+  ]
+}

@@ -1,0 +1,40 @@
+Sarah Johnson
+Data Scientist
+Email: sarah.johnson@techcorp.com
+Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/sarahjohnson
+
+Summary:
+Passionate data scientist with 5+ years of experience in machine learning, statistical analysis, and data visualization. Proven track record of delivering actionable insights from complex datasets.
+
+Skills:
+Python, R, SQL, Machine Learning, TensorFlow, Pandas, Scikit-learn, Tableau, Power BI, AWS, Git
+
+Work Experience:
+
+Senior Data Scientist at TechCorp - March 2020 – Present
+- Developed predictive models improving customer retention by 25%
+- Built recommendation engine serving 2M+ daily active users
+- Led cross-functional team of 5 data scientists and engineers
+- Presented findings to C-level executives and stakeholders
+
+Data Analyst at StartupXYZ - June 2018 – Feb 2020
+- Analyzed user behavior data to identify growth opportunities
+- Created automated reporting dashboards reducing manual work by 80%
+- Collaborated with product team to design A/B tests
+
+Education:
+Master of Science in Statistics, Stanford University, 2016–2018
+Bachelor of Science in Mathematics, UC Berkeley, 2012–2016
+
+Certifications:
+- Google Cloud Professional Data Engineer
+- Microsoft Azure Data Scientist Associate
+
+Languages:
+English (Native), French (Intermediate), Mandarin (Basic)
+
+Projects:
+- Customer Churn Prediction: Built ML model with 92% accuracy
+- Sales Forecasting System: Developed time series forecasting model
+- Sentiment Analysis Tool: Created NLP pipeline for social media data
